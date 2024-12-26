@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1735058700939,16905,https://www.saucedemo.com/,200,OK,Thread Group 1-1,text,true,,726609,3913,1,1,https://www.saucedemo.com/,1861,0,1777
+1735058700939,1885,https://www.saucedemo.com/-0,200,OK,Thread Group 1-1,text,true,,3319,624,1,1,https://www.saucedemo.com/,1861,0,1777
+1735058703094,422,https://www.saucedemo.com/-1,200,OK,Thread Group 1-1,bin,true,,15742,635,1,1,https://www.saucedemo.com/favicon.ico,355,0,0
+1735058703094,827,https://www.saucedemo.com/-2,200,OK,Thread Group 1-1,text,true,,4044,687,1,1,https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500,750,0,599
+1735058703094,676,https://www.saucedemo.com/-3,200,OK,Thread Group 1-1,text,true,,32044,658,1,1,https://www.saucedemo.com/static/css/main.f6c64be5.chunk.css,526,0,462
+1735058703094,14750,https://www.saucedemo.com/-4,200,OK,Thread Group 1-1,text,true,,604820,653,1,1,https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js,1235,0,1175
+1735058703096,1097,https://www.saucedemo.com/-5,200,OK,Thread Group 1-1,text,true,,66640,656,1,1,https://www.saucedemo.com/static/js/main.018d2d1e.chunk.js,624,0,566
+1735058700789,16905,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,726609,3913,1,1,null,1861,155,1777
+1735058778381,1641,https://www.saucedemo.com/,200,OK,Thread Group 1-1,text,true,,726614,3913,1,1,https://www.saucedemo.com/,951,0,881
+1735058778381,959,https://www.saucedemo.com/-0,200,OK,Thread Group 1-1,text,true,,3323,624,1,1,https://www.saucedemo.com/,951,0,881
+1735058779465,193,https://www.saucedemo.com/-1,200,OK,Thread Group 1-1,bin,true,,15742,635,1,1,https://www.saucedemo.com/favicon.ico,71,0,0
+1735058779465,400,https://www.saucedemo.com/-2,200,OK,Thread Group 1-1,text,true,,4044,687,1,1,https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500,397,0,256
+1735058779465,225,https://www.saucedemo.com/-3,200,OK,Thread Group 1-1,text,true,,32044,658,1,1,https://www.saucedemo.com/static/css/main.f6c64be5.chunk.css,210,0,147
+1735058779466,556,https://www.saucedemo.com/-4,200,OK,Thread Group 1-1,text,true,,604820,653,1,1,https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js,209,0,147
+1735058779468,289,https://www.saucedemo.com/-5,200,OK,Thread Group 1-1,text,true,,66641,656,1,1,https://www.saucedemo.com/static/js/main.018d2d1e.chunk.js,225,0,144
+1735058778265,1641,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,726614,3913,1,1,null,951,257,881
